@@ -50,7 +50,6 @@ Just a simple task to implement all the concepts learned using JavaScript and we
 
 [Magic Ludo](https://github.com/WeDontTrack/ludo-magic)
 
-PS: Project is private repo though due to ....
 
 ## Get Involved
 
