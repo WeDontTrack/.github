@@ -26,7 +26,7 @@ Well there is no exact reason to work with it, its side a time killer to work on
 
 ## About Us
 
-Just a couple of people [@vijay2249](github.com/vijay2249) & [@iredith](github.com/iredith) working on problems irritating us in our daily life. With no data collection and ads popping up.
+Just a couple of people [@vijay2249](https://github.com/vijay2249) & [@iredith](https://github.com/iredith) working on problems irritating us in our daily life. With no data collection and ads popping up.
 
 Principles of the development process:
 
